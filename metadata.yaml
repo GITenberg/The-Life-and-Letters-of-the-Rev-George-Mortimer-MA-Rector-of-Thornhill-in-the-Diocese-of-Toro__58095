@@ -1,5 +1,8 @@
 _repo: The-Life-and-Letters-of-the-Rev-George-Mortimer-MA-Rector-of-Thornhill-in-the-Diocese-of-Toro__58095
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58095-h/images/cover.jpg
 creator:
   author:
     agent_name: Armstrong, John
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5063
     wikipedia: http://en.wikipedia.org/wiki/John_Armstrong_%28poet%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58095#The-Life-and-Letters-of-the-Rev-George-Mortimer-MA-Rector-of-Thornhill-in-the-Diocese-of-Toro_
 gutenberg_issued: '2018-10-14'
 gutenberg_type: Text
 identifiers:
